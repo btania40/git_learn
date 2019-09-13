@@ -1,2 +1,5 @@
 hi 
 this is my new file
+clonning is done.
+So i am trying to push
+
